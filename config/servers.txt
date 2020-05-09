@@ -1,0 +1,3 @@
+1,localhost,8000,E:/Workstation/JAVA_Workstation/LamportAlgorithm/server-roots/server-1
+2,localhost,8001,E:/Workstation/JAVA_Workstation/LamportAlgorithm/server-roots/server-2
+3,localhost,8002,E:/Workstation/JAVA_Workstation/LamportAlgorithm/server-roots/server-3

@@ -1,0 +1,15 @@
+java Server 1 E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/servers.txt
+
+java Server 2 E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/servers.txt
+
+java Server 3 E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/servers.txt
+
+java Client 1 E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/clients.txt E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/servers.txt
+
+java Client 2 E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/clients.txt E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/servers.txt
+
+java Client 3 E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/clients.txt E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/servers.txt
+
+java Client 4 E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/clients.txt E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/servers.txt
+
+java Client 5 E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/clients.txt E:/Workstation/JAVA_Workstation/LamportAlgorithm/res/servers.txt

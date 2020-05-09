@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bfee594-cab2-4801-840b-946d3d150380" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bB5ue8HbOdOUIT9gwPN33MkXEN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SuzukiKasamiMutualExclusion" />
+  </component>
+  <component name="RunManager" selected="Application.Client-1">
+    <configuration name="Client-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="LamportAlgorithm" />
+      <option name="PROGRAM_PARAMETERS" value="1 $PROJECT_DIR$/config/clients.txt $PROJECT_DIR$/config/servers.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="LamportAlgorithm" />
+      <option name="PROGRAM_PARAMETERS" value="2 $PROJECT_DIR$/config/clients.txt $PROJECT_DIR$/config/servers.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client-3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="LamportAlgorithm" />
+      <option name="PROGRAM_PARAMETERS" value="3 $PROJECT_DIR$/config/clients.txt $PROJECT_DIR$/config/servers.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client-4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="LamportAlgorithm" />
+      <option name="PROGRAM_PARAMETERS" value="4 $PROJECT_DIR$/config/clients.txt $PROJECT_DIR$/config/servers.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client-5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="LamportAlgorithm" />
+      <option name="PROGRAM_PARAMETERS" value="5 $PROJECT_DIR$/config/clients.txt $PROJECT_DIR$/config/servers.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="LamportAlgorithm" />
+      <option name="PROGRAM_PARAMETERS" value="1 $PROJECT_DIR$/config/servers.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="LamportAlgorithm" />
+      <option name="PROGRAM_PARAMETERS" value="2 $PROJECT_DIR$/config/servers.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server-3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="LamportAlgorithm" />
+      <option name="PROGRAM_PARAMETERS" value="3 $PROJECT_DIR$/config/servers.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server-1" />
+      <item itemvalue="Application.Server-2" />
+      <item itemvalue="Application.Server-3" />
+      <item itemvalue="Application.Client-1" />
+      <item itemvalue="Application.Client-2" />
+      <item itemvalue="Application.Client-3" />
+      <item itemvalue="Application.Client-4" />
+      <item itemvalue="Application.Client-5" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bfee594-cab2-4801-840b-946d3d150380" name="Default Changelist" comment="" />
+      <created>1588092869212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588092869212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588914310563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588914310563" />
+    <state x="731" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588092890436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588092890436" />
+    <state x="1186" y="239" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588095992251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1186" y="239" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588095992251" />
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588097468412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588097468412" />
+    <state x="761" y="411" width="408" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588843685281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="411" width="408" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1588843685281" />
+    <state x="700" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588889170678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588889170678" />
+    <state x="1203" y="448" key="#xdebugger.evaluate" timestamp="1588105641109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1203" y="448" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1588105641109" />
+    <state width="862" height="466" key="DebuggerActiveHint" timestamp="1588898291159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="862" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1588898291159" />
+    <state x="401" y="205" key="FileChooserDialogImpl" timestamp="1588920834870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="401" y="205" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588920834870" />
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1588913833079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588913833079" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1588913833078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588913833078" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1588913833078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588913833078" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1588913833078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588913833078" />
+    <state width="1877" height="195" key="GridCell.Tab.1.bottom" timestamp="1588898626045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588898626045" />
+    <state width="1877" height="195" key="GridCell.Tab.1.center" timestamp="1588898626045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588898626045" />
+    <state width="1877" height="195" key="GridCell.Tab.1.left" timestamp="1588898626045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588898626045" />
+    <state width="1877" height="195" key="GridCell.Tab.1.right" timestamp="1588898626045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588898626045" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1588801692069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588801692069" />
+    <state x="758" y="237" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588106272980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="237" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1588106272980" />
+    <state x="667" y="154" width="586" height="732" key="find.popup" timestamp="1588102583088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="154" width="586" height="732" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588102583088" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588841482683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588841482683" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/server/ServerService.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/client/ClientService.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/client/ClientService.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/client/ClientService.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/client/ClientService.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/client/ClientService.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/client/ClientService.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/server/ServerEntity.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/server/ServerServiceHandler.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/server/ServerServiceHandler.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/server/ServerServiceHandler.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mutual/exclusion/lamport/client/ClientServiceHandler.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
