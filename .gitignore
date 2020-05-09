@@ -13,3 +13,5 @@ random_search_configs/
 
 
 *.class
+*/.class
+/.class
